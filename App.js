@@ -25,11 +25,8 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: '#fff',
-    // alignItems: 'flex-start',
-    // marginHorizontal: 20,
-    // marginBottom: 20,
 
-  },
 
+  }
 
 });
